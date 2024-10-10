@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/css/main.90f3f04f.css",
+    "main.js": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/js/main.7c76f453.js",
+    "static/js/453.1b6b26d7.chunk.js": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/js/453.1b6b26d7.chunk.js",
+    "static/media/Travalo.png": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/media/Travalo.84ba881cd8b43ef2cff4.png",
+    "static/media/NCRB.png": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/media/NCRB.95ecc4131fc620f8b74f.png",
+    "static/media/CollegeAtGlance.png": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/media/CollegeAtGlance.9114f988f1bab9dda792.png",
+    "static/media/BlindPeopleExam.jpeg": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/media/BlindPeopleExam.605d62b28243b2c30a0b.jpeg",
+    "static/media/machinelearning.png": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/media/machinelearning.71cf5caaa614ef0f3d76.png",
+    "static/media/nextjs2.png": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/media/nextjs2.37ce8fc7b8f8dd2ce994.png",
+    "static/media/mongodb.webp": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/media/mongodb.d74793c3cf7c683b656d.webp",
+    "index.html": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/index.html",
+    "main.90f3f04f.css.map": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/css/main.90f3f04f.css.map",
+    "main.7c76f453.js.map": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/js/main.7c76f453.js.map",
+    "453.1b6b26d7.chunk.js.map": "/Sushant-Divekar.github.io/portfolio-sushant-divekar/static/js/453.1b6b26d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90f3f04f.css",
+    "static/js/main.7c76f453.js"
+  ]
+}
