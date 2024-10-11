@@ -1,0 +1,23 @@
+/* Navbar.css */
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+  nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 50;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
